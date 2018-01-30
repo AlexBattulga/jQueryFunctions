@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    width: 970px;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.section h1{text-align: center; padding: 30px 0 10px 0; }
+.line{width: 970px; height: 5px; background: #000; margin-top: 20px;}
+.content{display: inline-block;}
+.red{
+    display: inline-block;
+    padding: 3px 10px 4px 10px;
+    box-shadow: 1px 1px 2px #000;
+}
+p{
+    width: 800px;
+    display: inline-block;
+    text-align: center;
+}
+.slidedown{
+    background-color: orange;
+    height: 300px;
+}
+.extraStyle{
+    color: #129cf3;
+    font-size: 27px;
+}
+.btns{
+    background-color: #129cf3;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    color: #fff;
+}
+#input{
+    text-align: center;
+    border: 2px solid #129cf3;
+    border-radius: 5px;
+
+}
